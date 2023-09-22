@@ -17,6 +17,9 @@
 ☑ Ensure data backup and redundancy as per your application's needs.
 
 ![image](https://github.com/Shreyashbhise/-Deploy-a-3-Tier-Architecture-On-AWS---End-to-End-Project-/assets/108046802/5e7069ed-2627-4c09-9553-0a966b9a49f5)
+![image](https://github.com/Shreyashbhise/-Deploy-a-3-Tier-Architecture-On-AWS---End-to-End-Project-/assets/108046802/675d72fc-1148-4a29-89fc-53ca8a57fcc0)
+
+
 
 
 
